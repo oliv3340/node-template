@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/oliv3340/node-template/compare/v1.0.1...v1.0.2) (2024-12-09)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v19 ([#128](https://github.com/oliv3340/node-template/issues/128)) ([732b874](https://github.com/oliv3340/node-template/commit/732b87452b0d3a5302e0e9165420a5575541e127))
+
 ## [1.0.1](https://github.com/oliv3340/node-template/compare/v1.0.0...v1.0.1) (2024-09-20)
 
 
