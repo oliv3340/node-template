@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/oliv3340/node-template/compare/v1.0.6...v1.0.7) (2025-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update nextjs monorepo to v15.2.1 ([#184](https://github.com/oliv3340/node-template/issues/184)) ([1da080b](https://github.com/oliv3340/node-template/commit/1da080b53c5140ab5dbb225c1592535b12a7c0c0))
+
 ## [1.0.6](https://github.com/oliv3340/node-template/compare/v1.0.5...v1.0.6) (2025-03-01)
 
 
