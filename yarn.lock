@@ -221,15 +221,15 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@next/env@15.5.7":
-  version "15.5.7"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.5.7.tgz#4168db34ae3bc9fd9ad3b951d327f4cfc38d4362"
-  integrity sha512-4h6Y2NyEkIEN7Z8YxkA27pq6zTkS09bUSYC0xjd0NpwFxjnIKeZEeH591o5WECSmjpUhLn3H2QLJcDye3Uzcvg==
+"@next/env@15.5.8":
+  version "15.5.8"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-15.5.8.tgz#287b469508b5a6e149f39b8923df560e25cde908"
+  integrity sha512-ejZHa3ogTxcy851dFoNtfB5B2h7AbSAtHbR5CymUlnz4yW1QjHNufVpvTu8PTnWBKFKjrd4k6Gbi2SsCiJKvxw==
 
-"@next/eslint-plugin-next@15.5.7":
-  version "15.5.7"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-15.5.7.tgz#69ab374b5f4a8a19a7cc1e2b89e5d50035cfb02d"
-  integrity sha512-DtRU2N7BkGr8r+pExfuWHwMEPX5SD57FeA6pxdgCHODo+b/UgIgjE+rgWKtJAbEbGhVZ2jtHn4g3wNhWFoNBQQ==
+"@next/eslint-plugin-next@15.5.8":
+  version "15.5.8"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-15.5.8.tgz#615425565d0184ff7829598381eeef2c05899887"
+  integrity sha512-PBv6j6YxyC9cFgZKSGFlFydQ+lzzR3Fs1GBr9Z2YzoZK7dH/K8ebRtZiN4pV+b8MbSJiHjZYTKVPKF/UzNgrOA==
   dependencies:
     fast-glob "3.3.1"
 
@@ -974,12 +974,12 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-next@15.5.7:
-  version "15.5.7"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-15.5.7.tgz#c0e8cfab54bbc85a0e339a9747da69136c065b60"
-  integrity sha512-nU/TRGHHeG81NeLW5DeQT5t6BDUqbpsNQTvef1ld/tqHT+/zTx60/TIhKnmPISTTe++DVo+DLxDmk4rnwHaZVw==
+eslint-config-next@15.5.8:
+  version "15.5.8"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-15.5.8.tgz#9459d896caec1381b96e58201a163199206ea3da"
+  integrity sha512-FU2nFCVYt3z60EH8upds4frThuIAiSt81zUtQI/9fIc25VVVT3yaKsFwGIY6BIDT/I0X/Dam+RR7xzTRZMyArQ==
   dependencies:
-    "@next/eslint-plugin-next" "15.5.7"
+    "@next/eslint-plugin-next" "15.5.8"
     "@rushstack/eslint-patch" "^1.10.3"
     "@typescript-eslint/eslint-plugin" "^5.4.2 || ^6.0.0 || ^7.0.0 || ^8.0.0"
     "@typescript-eslint/parser" "^5.4.2 || ^6.0.0 || ^7.0.0 || ^8.0.0"
@@ -1886,12 +1886,12 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-next@15.5.7:
-  version "15.5.7"
-  resolved "https://registry.yarnpkg.com/next/-/next-15.5.7.tgz#4507700b2bbcaf2c9fb7a9ad25c0dac2ba4a9a75"
-  integrity sha512-+t2/0jIJ48kUpGKkdlhgkv+zPTEOoXyr60qXe68eB/pl3CMJaLeIGjzp5D6Oqt25hCBiBTt8wEeeAzfJvUKnPQ==
+next@15.5.8:
+  version "15.5.8"
+  resolved "https://registry.yarnpkg.com/next/-/next-15.5.8.tgz#d56c7c5b3afc056f286cea53c9dc105323f6af27"
+  integrity sha512-Tma2R50eiM7Fx6fbDeHiThq7sPgl06mBr76j6Ga0lMFGrmaLitFsy31kykgb8Z++DR2uIEKi2RZ0iyjIwFd15Q==
   dependencies:
-    "@next/env" "15.5.7"
+    "@next/env" "15.5.8"
     "@swc/helpers" "0.5.15"
     caniuse-lite "^1.0.30001579"
     postcss "8.4.31"
